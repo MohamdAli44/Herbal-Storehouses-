@@ -1519,7 +1519,7 @@ section {
   /* box-shadow: 0px 0 25px rgba(var(--color-black-rgb), 0.1); */
 }
 .product-items .details ::after{
-  /* position: relative; */
+  position: relative;
 }
 /* .product-items-herbs .details {
   padding: 15px 30px 30px 30px;
